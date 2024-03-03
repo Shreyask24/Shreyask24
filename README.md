@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Three js project**
+- 🔭 I’m currently working on **React js project**
 
-- 🌱 I’m currently learning **Three js**
+- 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **React js projects**
 
-- 💬 Ask me about **react,javascript, html, css, python**
+- 💬 Ask me about **React, Javascript, HTML, CSS, Python**
 
 - 📫 How to reach me **kshreyas495@gmail.com**
 
