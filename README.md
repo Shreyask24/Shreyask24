@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My Name is Shreyas Kallurkar</h1>
 
-# 💫 About Me:
+# 👀 About Me:
 I'm a frontend-focused full-stack developer who loves turning real-world problems into clean, scalable web apps. Whether it's a flight booking flow, a real-time chat with AI, or a helpdesk dashboard, I'm all about building things that work and look good doing it.
 
 🛠️ Tech I use most:
@@ -8,11 +8,10 @@ React.js | Next.js | TypeScript | Tailwind CSS | Node.js | MongoDB
 
 🚀 What I’ve built:
 
-A real-time chat app with AI (Gemini API), WebSockets, JWT, and media sharing
-
-A flight booking platform with auto-filled forms, filters, and dynamic UI
-
-A full helpdesk system with role-based dashboards and ticket management
+- A real-time chat app with AI (Gemini API), WebSockets, JWT, and media sharing
+- A flight booking platform with auto-filled forms, filters, and dynamic UI
+- A full helpdesk system with role-based dashboards and ticket management
+- VocalEdge – AI-Powered LMS SaaS Platform
 
 🎯 Always learning, always building. Currently diving deeper into performance optimization, SaaS Web Application, and AI integrations.
 
