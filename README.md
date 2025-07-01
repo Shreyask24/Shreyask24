@@ -1,7 +1,23 @@
 <h1 align="center">Hi 👋, My Name is Shreyas Kallurkar</h1>
 
 # 💫 About Me:
-Hi! I’m Shreyas Kallurkar, a frontend-leaning full-stack developer passionate about building scalable web apps with clean UIs, real-time capabilities, and strong API integration.<br>Currently pursuing a B.E. in AI & Data Science, I bring experience from multiple internships where I shipped production-ready features in React, TypeScript, Node.js, and MongoDB.
+I'm a frontend-focused full-stack developer who loves turning real-world problems into clean, scalable web apps. Whether it's a flight booking flow, a real-time chat with AI, or a helpdesk dashboard, I'm all about building things that work and look good doing it.
+
+🛠️ Tech I use most:
+React.js | Next.js | TypeScript | Tailwind CSS | Node.js | MongoDB 
+
+🚀 What I’ve built:
+
+A real-time chat app with AI (Gemini API), WebSockets, JWT, and media sharing
+
+A flight booking platform with auto-filled forms, filters, and dynamic UI
+
+A full helpdesk system with role-based dashboards and ticket management
+
+🎯 Always learning, always building. Currently diving deeper into performance optimization, SaaS Web Application, and AI integrations.
+
+📫 Let’s connect:
+[Portfolio](https://shreyasdevx.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/shreyas-kallurkar/) | [X](https://x.com/https://x.com/ShreyasDevx)
 
 
 ## 🌐 Socials:
