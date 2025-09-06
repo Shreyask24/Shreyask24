@@ -3,10 +3,10 @@
 # About Me:
 I'm a frontend-focused full-stack developer who loves turning real-world problems into clean, scalable web apps. Whether it's a flight booking flow, a real-time chat with AI, or a helpdesk dashboard, I'm all about building things that work and look good doing it.
 
-Tech I use most:
+<b> Tech I use most: </b>
 React.js | Next.js | TypeScript | Tailwind CSS | Node.js | MongoDB 
 
-🚀 What I’ve built:
+<b> What I’ve built: </b>
 
 - A real-time chat app with AI (Gemini API), WebSockets, JWT, and media sharing
 - A flight booking platform with auto-filled forms, filters, and dynamic UI
@@ -15,7 +15,7 @@ React.js | Next.js | TypeScript | Tailwind CSS | Node.js | MongoDB
 
 <b> Always learning, always building. Currently diving deeper into performance optimization, SaaS Web Application, and AI integrations. </b>
 
-📫 Let’s connect:
+<b> Let’s connect: </b>
 [Portfolio](https://shreyaskallurkar.com/) | [LinkedIn](https://www.linkedin.com/in/shreyas-kallurkar/) | [X](https://x.com/https://x.com/Shreyasdevx)
 
 
@@ -37,4 +37,3 @@ React.js | Next.js | TypeScript | Tailwind CSS | Node.js | MongoDB
 ---
 [![](https://visitcount.itsvg.in/api?id=Shreyask24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
