@@ -3,7 +3,7 @@
 # About Me:
 I'm a frontend-focused full-stack developer who loves turning real-world problems into clean, scalable web apps. Whether it's a flight booking flow, a real-time chat with AI, or a helpdesk dashboard, I'm all about building things that work and look good doing it.
 
-🛠️ Tech I use most:
+Tech I use most:
 React.js | Next.js | TypeScript | Tailwind CSS | Node.js | MongoDB 
 
 🚀 What I’ve built:
@@ -13,10 +13,10 @@ React.js | Next.js | TypeScript | Tailwind CSS | Node.js | MongoDB
 - A full helpdesk system with role-based dashboards and ticket management
 - VocalEdge – AI-Powered LMS SaaS Platform
 
-🎯 Always learning, always building. Currently diving deeper into performance optimization, SaaS Web Application, and AI integrations.
+<b> Always learning, always building. Currently diving deeper into performance optimization, SaaS Web Application, and AI integrations. </b>
 
 📫 Let’s connect:
-[Portfolio](https://shreyasdevx.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/shreyas-kallurkar/) | [X](https://x.com/https://x.com/ShreyasDevx)
+[Portfolio](https://shreyaskallurkar.com/) | [LinkedIn](https://www.linkedin.com/in/shreyas-kallurkar/) | [X](https://x.com/https://x.com/Shreyasdevx)
 
 
 # Socials:
